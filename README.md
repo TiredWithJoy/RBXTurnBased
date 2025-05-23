@@ -16,4 +16,4 @@ rojo serve
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
 
-All scripts are coding by TiredWithJoygit remote add origin https://github.com/TiredWithJoy/RBXTurnBased.git
+All scripts are coded by TiredWithJoy
